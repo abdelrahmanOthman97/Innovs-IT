@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEt+ZXMsdCSMNgcPHtdvlme5wS2rBUycyU6iE4nmJYoUcCo6F5V0QPR5sIQgfNR4R5hcC4FqDM8DN7X/cEv8sQ==",
+  "dgSpecHash": "J2rH4o7XlRVTvIqPdFzlFv6h42WohyhJwqPCnEL+seI7IRTNcGpClvZ9e1vrspdtI8It8tJI0QipxMDok0ymlw==",
   "success": true,
-  "projectFilePath": "G:\\Innovs-IT Project\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
+  "projectFilePath": "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

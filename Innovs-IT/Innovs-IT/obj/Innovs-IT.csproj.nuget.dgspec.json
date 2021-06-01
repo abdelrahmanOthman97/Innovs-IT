@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Innovs-IT Project\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj": {}
+    "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj": {}
   },
   "projects": {
-    "G:\\Innovs-IT Project\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj": {
+    "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Innovs-IT Project\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
+        "projectUniqueName": "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
         "projectName": "Innovs-IT",
-        "projectPath": "G:\\Innovs-IT Project\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
+        "projectPath": "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Innovs-IT Project\\Innovs-IT\\Innovs-IT\\obj\\",
+        "outputPath": "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

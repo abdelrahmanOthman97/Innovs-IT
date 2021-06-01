@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Innovs_IT.DAL.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -11,9 +12,10 @@ namespace Innovs_IT.DAL.Database
     {
         public DbContainer(DbContextOptions<DbContainer> opts) : base(opts) { }
 
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
-        
-        
+
+
 
     }
 }

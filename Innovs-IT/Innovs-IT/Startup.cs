@@ -1,5 +1,6 @@
 using Innovs_IT.BL.Mapper;
 using Innovs_IT.DAL.Database;
+using Innovs_IT.DAL.Entities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
