@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj": {}
+    "C:\\Users\\HP G3 470\\Documents\\GitHub\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj": {}
   },
   "projects": {
-    "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj": {
+    "C:\\Users\\HP G3 470\\Documents\\GitHub\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
+        "projectUniqueName": "C:\\Users\\HP G3 470\\Documents\\GitHub\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
         "projectName": "Innovs-IT",
-        "projectPath": "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Innovs-IT\\Innovs-IT\\Innovs-IT\\obj\\",
+        "projectPath": "C:\\Users\\HP G3 470\\Documents\\GitHub\\Innovs-IT\\Innovs-IT\\Innovs-IT\\Innovs-IT.csproj",
+        "packagesPath": "C:\\Users\\HP G3 470\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP G3 470\\Documents\\GitHub\\Innovs-IT\\Innovs-IT\\Innovs-IT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP G3 470\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

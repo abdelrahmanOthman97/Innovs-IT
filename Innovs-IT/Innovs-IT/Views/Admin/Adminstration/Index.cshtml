@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityRole>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+        @if (Model.Any())
+        {
+            foreach (var item in Model)
+            {
+<div class="card">
+    <div class="card-header">
+      Role ID:@item.Id
+
+    </div>
+    <div class="card-body">
+        Role Name:@item.Name
+        </div>
+
+        <div class="card-footer">
+        <a class="btn btn-primary" style="width:auto"asp-route-Id="@item.Id"  asp-action="EditRole" asp-controller="Adminstration"> Edit Role</a>
+        <a class="btn btn-danger" style="width:auto" asp-route-Id="@item.Id" asp-action="DeleteRole" asp-controller="Adminstration"> Delete Role</a>
+
+    </div>
+
+    @*@Html.DisplayFor(modelItem => item.RoleName)
+
+        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+</div>
+            }
+        }
+        else
+        {
+
+
+<div class="card">
+    <div class="card-header">
+        No roles created yet
+
+    </div>
+    <div class="card-body">
+        <a class="btn btn-primary" style="width:auto" asp-action="Createrole" asp-controller="Adminstration"> Create Role</a>
+
+    </div>
+
+    @*@Html.DisplayFor(modelItem => item.RoleName)
+
+    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+</div>
+}
+    
